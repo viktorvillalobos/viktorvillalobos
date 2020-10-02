@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**viktorvillalobos/viktorvillalobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+from dataclasses import dataclass
+from typing import Tuple
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Meta(type):
+    def __new__(cls, name, bases, attrs):
+        for attr in attrs:
+            if not attr.startswith("_"):
+                __annotations__[attr] = Tuple[str, ...]
+        attrs["__annotations__"] = __annotations__
+        new_cls = super().__new__(cls, name, bases, attrs)
+        new_cls = dataclass(new_cls)
+        return new_cls
+
+
+class Stack():
+    languages = ("Python", "JS", "Rust")
+    databases = ("PostgreSQL", "Redis", "Mongo")
+    utils = ("Docker", "Celery", "Citus")
+    frameworks = ("Django", "DRF", "Sanic", "FastAPI")
+
+```
+</h3>
