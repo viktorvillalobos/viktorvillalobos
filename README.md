@@ -15,7 +15,7 @@ class Meta(type):
         return new_cls
 
 
-class Stack():
+class Stack(metaclass=Meta):
     languages = ("Python", "JS", "Rust")
     databases = ("PostgreSQL", "Redis", "Mongo")
     utils = ("Docker", "Celery", "Citus")
