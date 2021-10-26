@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://viktor.bearblog.dev/](https://viktor.bearblog.dev/)
 
-- 💬 Ask me about **Software Ciencies, Python, Django, JavaScript, VueJS**
+- 💬 Ask me about **Computer Sciences, Python, Django, JavaScript, VueJS**
 
 - 📫 How to reach me **viktor@hol.is**
 
