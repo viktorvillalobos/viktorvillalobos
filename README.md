@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [Cornershop By Uber](https://cornershopapp.com)
 
-- 🌱 I’m currently learning **Microservices architecture, PostgreSQL Performance, SaaS Bootstrapping**
+- 🌱 I’m currently learning **Event Driven architecture, PostgreSQL Performance, SaaS Bootstrapping**
 
 - ⬢ I’m also working on [Holis](https://hol.is)
 
-- 📝 I regularly write articles on [https://viktor.bearblog.dev/](https://viktor.bearblog.dev/)
+- 📝 I regularly write articles on [https://victorvillalobos.com/](https://victorvillalobos.com/)
 
 - 💬 Ask me about **Computer Sciences, Python, Django, JavaScript, VueJS**
 
 - 📫 How to reach me **viktor@hol.is**
 
-- 🏋🏻‍♂️ I practice **Crossfit**
+- 🏋🏻‍♂️ **Crossfit** lover
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
