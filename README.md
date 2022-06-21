@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/viktordevelop" target="blank"><img src="https://img.shields.io/twitter/follow/viktordevelop?logo=twitter&style=for-the-badge" alt="viktordevelop" /></a> </p>
 
-- 🔭 I’m currently working on [Rendalo Maq](https://rendalomaq.com)
+- 🔭 I’m currently working as CTO on [Rendalo Maq](https://rendalomaq.com)
 
 - 🌱 I’m currently learning **Event Driven architecture, PostgreSQL Performance, SaaS Bootstrapping**
 
