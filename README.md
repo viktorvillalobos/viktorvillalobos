@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Event Driven architecture, PostgreSQL Performance, SaaS Bootstrapping**
 
-- ⬢ I’m also working on [Holis](https://hol.is)
+- ⬢ I’m also working on [Julliet](https://julliet.ai)
 
 - 📝 I regularly write articles on [https://victorvillalobos.com/](https://victorvillalobos.com/)
 
