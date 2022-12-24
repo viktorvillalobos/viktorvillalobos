@@ -11,8 +11,6 @@
 
 - ⬢ I’m also working on [Julliet](https://julliet.ai)
 
-- 📝 I regularly write articles on [https://victorvillalobos.com/](https://victorvillalobos.com/)
-
 - 💬 Ask me about **Computer Sciences, Python, Django, JavaScript, VueJS**
 
 - 📫 How to reach me **viktor@hol.is**
