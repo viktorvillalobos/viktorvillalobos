@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorvillalobos&label=Profile%20views&color=0e75b6&style=flat" alt="viktorvillalobos" /> </p>
 
-<p align="left"> <a href="https://twitter.com/viktordevelop" target="blank"><img src="https://img.shields.io/twitter/follow/viktordevelop?logo=twitter&style=for-the-badge" alt="viktordevelop" /></a> </p>
+<p align="left"> <a href="https://twitter.com/viktorpy" target="blank"><img src="https://img.shields.io/twitter/follow/viktordevelop?logo=twitter&style=for-the-badge" alt="viktordevelop" /></a> </p>
 
 - 🔭 I’m currently working as CTO on [Rendalo Maq](https://rendalomaq.com)
 
