@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/viktorvillalobos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="viktorvillalobos" height="30" width="40" /></a>
-<a href="https://twitter.com/viktordevelop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viktordevelop" height="30" width="40" /></a>
+<a href="https://twitter.com/viktorpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viktordevelop" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viktor-villalobos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-villalobos" height="30" width="40" /></a>
 <a href="https://instagram.com/viktordeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viktordeveloper" height="30" width="40" /></a>
 </p>
