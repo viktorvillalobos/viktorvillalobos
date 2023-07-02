@@ -11,7 +11,7 @@
 
 - ⬢ I’m also working on [Julliet](https://julliet.ai)
 
-- 💬 Ask me about **Computer Sciences, Python, Django, FastAPI, Infrascture, JavaScript, NextKS, VueJS**
+- 💬 Ask me about **Computer Sciences, Python, Django, FastAPI, Infrascture, JavaScript, NextJS, VueJS**
 
 - 📫 How to reach me **victorvillalobos@outlook.com**
 
