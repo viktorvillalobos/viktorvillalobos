@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as CTO on [Rendalo Maq](https://rendalomaq.com)
   
 - ⬢ Creator of  [Nely](https://nely.ai)
-
+- ⬢ Creator of  [Crubing](https://crubing.com)
 - ⬢ Creator of  [Julliet](https://julliet.ai) (Acquired)
 
 - 💬 Ask me about **Computer Sciences, Python, Django, FastAPI, Infrascture, JavaScript, NextJS, VueJS**
