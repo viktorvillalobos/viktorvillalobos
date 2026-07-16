@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/viktorpy" target="blank"><img src="https://img.shields.io/twitter/follow/viktordevelop?logo=twitter&style=for-the-badge" alt="viktordevelop" /></a> </p>
 
-- 🔭 I’m currently working as CTO on [Rendalo Maq](https://rendalomaq.com)
-  
-- ⬢ Creator of  [Nely](https://nely.ai)
+- CEO & Founder of [Zavu](https://www.zavu.dev)
+- CEO & Founder of [Nely](https://www.nely.ai)
+- Ex CTO on [Rendalo Maq](https://rendalomaq.com)
 - ⬢ Creator of  [Julliet](https://julliet.ai) (Acquired)
 
 - 💬 Ask me about **Computer Sciences, Python, Django, FastAPI, Infrascture, JavaScript, NextJS, VueJS**
