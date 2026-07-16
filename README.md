@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Computer Sciences, Python, Django, FastAPI, Infrascture, JavaScript, NextJS, VueJS**
 
-- 📫 How to reach me **victorvillalobos@outlook.com**
+- 📫 How to reach me **victor@zavu.dev**
 
 - 🏋🏻‍♂️ **Crossfit** lover
 
