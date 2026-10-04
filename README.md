@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Víctor Villalobos</h1>
+<h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">AI Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorvillalobos&label=Profile%20views&color=0e75b6&style=flat" alt="viktorvillalobos" /> </p>
 
 <p align="left"> <a href="https://twitter.com/viktorpy" target="blank"><img src="https://img.shields.io/twitter/follow/viktordevelop?logo=twitter&style=for-the-badge" alt="viktordevelop" /></a> </p>
-
-- CEO & Founder of [Zavu](https://www.zavu.dev)
-- CEO & Founder of [Nely](https://www.nely.ai)
-- Ex CTO on [Rendalo Maq](https://rendalomaq.com)
-- ⬢ Creator of  [Julliet](https://julliet.ai) (Acquired)
 
 - 💬 Ask me about **Computer Sciences, Python, Django, FastAPI, Infrascture, JavaScript, NextJS, VueJS**
 
