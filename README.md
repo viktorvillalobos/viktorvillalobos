@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Computer Sciences, Python, Django, FastAPI, Infrascture, JavaScript, NextJS, VueJS**
 
-- 📫 How to reach me **victor@zavu.dev**
-
 - 🏋🏻‍♂️ **Crossfit** lover
 
 <h3 align="left">Connect with me:</h3>
